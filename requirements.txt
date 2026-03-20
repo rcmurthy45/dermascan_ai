@@ -5,3 +5,4 @@ pillow>=9.4
 numpy>=1.23
 matplotlib>=3.7
 scikit-learn>=1.2
+gunicorn>=21.2
