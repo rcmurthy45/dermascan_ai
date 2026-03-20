@@ -1,0 +1,7 @@
+flask>=2.3
+flask-cors>=4.0
+tensorflow>=2.12
+pillow>=9.4
+numpy>=1.23
+matplotlib>=3.7
+scikit-learn>=1.2

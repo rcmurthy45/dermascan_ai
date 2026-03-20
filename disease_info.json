@@ -1,0 +1,86 @@
+{
+  "acne": {
+    "display_name": "Acne Vulgaris",
+    "description": "Acne is a chronic inflammatory skin condition causing pimples, blackheads, and cysts, primarily affecting the face, chest, and back. It occurs when hair follicles become clogged with oil and dead skin cells.",
+    "severity": "Mild to Moderate",
+    "duration": "Typically develops over 2–6 weeks; chronic cases can persist for months to years without treatment.",
+    "precautions": [
+      "Wash affected areas with a gentle, oil-free cleanser twice daily",
+      "Avoid touching, picking, or squeezing pimples to prevent scarring",
+      "Use non-comedogenic (non-pore-clogging) makeup and skincare products",
+      "Change pillowcases every 1–2 days to reduce bacteria transfer",
+      "Stay hydrated and maintain a balanced, low-glycemic diet",
+      "Manage stress through exercise, sleep, and relaxation techniques"
+    ],
+    "care_tips": [
+      "Apply a benzoyl peroxide (2.5–5%) or salicylic acid cleanser",
+      "Use retinoids (adapalene gel) for blackheads and whiteheads",
+      "Consider niacinamide serum to reduce inflammation and redness",
+      "Apply non-comedogenic SPF 30+ sunscreen daily",
+      "Consult a dermatologist for prescription antibiotics or isotretinoin in severe cases"
+    ]
+  },
+  "eczema": {
+    "display_name": "Eczema (Atopic Dermatitis)",
+    "description": "Eczema is a chronic inflammatory skin condition characterized by dry, itchy, red, and cracked skin. It is common in children but can affect any age group and often co-exists with asthma and hay fever.",
+    "severity": "Moderate to Severe",
+    "duration": "Can develop within days of trigger exposure; flare-ups last 1–3 weeks. Chronic eczema may persist for years.",
+    "precautions": [
+      "Identify and strictly avoid personal triggers (soaps, dust, pet dander, certain foods)",
+      "Keep skin constantly moisturised — apply emollient within 3 minutes of bathing",
+      "Use mild, fragrance-free and dye-free soaps, detergents, and skincare products",
+      "Wear soft, breathable fabrics (cotton) and avoid rough or synthetic materials",
+      "Keep fingernails short and clean to minimise skin damage from scratching",
+      "Maintain indoor humidity at 45–55% using a humidifier"
+    ],
+    "care_tips": [
+      "Apply a thick, fragrance-free moisturiser (e.g., CeraVe, Eucerin) at least twice daily",
+      "Use over-the-counter 1% hydrocortisone cream for mild flare-ups",
+      "Take lukewarm (not hot) baths for 10–15 minutes and pat skin dry gently",
+      "Apply prescription topical corticosteroids or calcineurin inhibitors as directed",
+      "Consider antihistamines to relieve itch and improve sleep quality"
+    ]
+  },
+  "psoriasis": {
+    "display_name": "Psoriasis",
+    "description": "Psoriasis is an autoimmune disease that accelerates the skin cell life cycle, causing cells to build up rapidly on the skin surface and form scales and red patches that can be itchy and sometimes painful.",
+    "severity": "Moderate to Severe",
+    "duration": "Plaques can develop over 1–2 weeks. Psoriasis is a lifelong condition with cycles of flare-ups (weeks to months) and remission.",
+    "precautions": [
+      "Avoid known triggers: stress, infections, certain medications (beta-blockers, lithium), alcohol, and smoking",
+      "Protect skin from injury — even minor cuts can trigger the Koebner phenomenon",
+      "Moisturise skin daily to reduce scaling, cracking, and discomfort",
+      "Limit alcohol consumption as it can worsen flare-ups and reduce treatment effectiveness",
+      "Eat an anti-inflammatory diet rich in fruits, vegetables, and omega-3 fatty acids",
+      "Manage stress with yoga, meditation, or counselling"
+    ],
+    "care_tips": [
+      "Apply coal tar or salicylic acid shampoos/creams to reduce scaling",
+      "Use prescription topical corticosteroids or vitamin D analogues (calcipotriol)",
+      "Consider controlled UVB phototherapy under medical supervision",
+      "Biologics (TNF inhibitors, IL-17/23 blockers) are highly effective for moderate-to-severe cases",
+      "Regular dermatology follow-ups are essential to adjust treatment plans"
+    ]
+  },
+  "nail_fungus": {
+    "display_name": "Nail Fungus (Onychomycosis)",
+    "description": "Nail fungus is a common fungal infection that begins as a white or yellow spot under the tip of the fingernail or toenail. As it deepens, it causes the nail to discolour, thicken, and crumble at the edges.",
+    "severity": "Mild to Moderate",
+    "duration": "Develops gradually over months. Nails grow slowly, so full treatment and nail regrowth can take 6–18 months.",
+    "precautions": [
+      "Keep nails short, dry, and clean at all times",
+      "Wear moisture-wicking socks and change them daily or when sweaty",
+      "Wear waterproof sandals or shoes in public pools, locker rooms, and showers",
+      "Do not share nail clippers, files, or footwear with others",
+      "Disinfect nail tools with 70% isopropyl alcohol after each use",
+      "Choose breathable footwear materials (leather, mesh) to reduce moisture build-up"
+    ],
+    "care_tips": [
+      "Apply OTC antifungal nail lacquer (ciclopirox) or cream (clotrimazole) daily",
+      "Soak feet in a diluted white vinegar solution (1:2 ratio) for 20 minutes daily",
+      "Prescription oral antifungals (terbinafine, itraconazole) are most effective for severe cases",
+      "Laser therapy is an emerging option for resistant nail fungus",
+      "Trim and thin infected nail before applying topical treatments for better penetration"
+    ]
+  }
+}
